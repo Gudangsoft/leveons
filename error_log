@@ -1,0 +1,5 @@
+[26-Sep-2025 01:47:25 UTC] PHP Warning:  require_once(/home/sahabat4/levions.sahabatngoding.com/public/index.php): Failed to open stream: No such file or directory in /home/sahabat4/levions.sahabatngoding.com/server.php on line 14
+[26-Sep-2025 01:47:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sahabat4/levions.sahabatngoding.com/public/index.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sahabat4/levions.sahabatngoding.com/server.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sahabat4/levions.sahabatngoding.com/server.php on line 14
